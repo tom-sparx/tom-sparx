@@ -19,9 +19,9 @@ https://devforum.roblox.com/t/blurring-anything/3134850
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="pus7aczeq546 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[youtube]: [https://www.youtube.com/@pus7aczeq546]
+[youtube]: https://www.youtube.com/@pus7aczeq546
 <!--
 **tom-sparx/tom-sparx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
