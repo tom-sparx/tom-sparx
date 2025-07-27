@@ -15,7 +15,15 @@ FPS engine in roblox
 By discord "tom_spark"
 
 <h2> Cool stuff i made over the years:</h2>
+Blurring Anything:
 https://devforum.roblox.com/t/blurring-anything/3134850
+
+Dialogue System:
+https://www.youtube.com/watch?v=BSMqh6tmu0A
+
+Models:
+https://www.youtube.com/post/UgkxIuYITO1FkTZA_zcEKGrS2mORTtQBIs19
+https://www.youtube.com/post/UgkxwTuFK-S2cW6E8RHZBHl7Wn4nqmKW9VHs
 
 <h2> Connect with me:</h2>
 
